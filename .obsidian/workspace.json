@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge.md",
+                "file": "Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge.md",
+                "file": "Philosophy/Immanuel Kant.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "19ee29b64a9e2d06",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Critique of Pure Reason.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "792b68f8dddb528b",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge.md",
+                "file": "Critique of Pure Reason.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge.md",
+                "file": "Critique of Pure Reason.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge.md"
+                "file": "Critique of Pure Reason.pdf"
               }
             }
           }
@@ -159,13 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc99962f9a36a768",
+  "active": "19ee29b64a9e2d06",
   "lastOpenFiles": [
-    "Philosophy/Arthur Schopenhauer.md",
-    "Knowledge.md",
-    "Philosophy.md",
-    "Philosophy/Untitled.md",
     "Philosophy/Immanuel Kant.md",
+    "Philosophy.md",
+    "Knowledge.md",
+    "Critique of Pure Reason.pdf",
+    "Philosophy/Arthur Schopenhauer.md",
+    "Philosophy/Untitled.md",
     "Philosophy"
   ]
 }
