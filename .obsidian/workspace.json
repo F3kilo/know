@@ -190,16 +190,16 @@
         "y": 32,
         "width": 1920,
         "height": 1048,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "1c082fe8816c0cf9",
+  "active": "19ee29b64a9e2d06",
   "lastOpenFiles": [
+    "Philosophy.md",
     "Philosophy/Immanuel Kant.md",
     "Critique of Pure Reason.pdf",
-    "Philosophy.md",
     "Knowledge.md",
     "Philosophy/Arthur Schopenhauer.md",
     "Philosophy/Untitled.md",
