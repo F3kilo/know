@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critique of Pure Reason.pdf",
+                "file": "Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critique of Pure Reason.pdf",
+                "file": "Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Critique of Pure Reason.pdf"
+                "file": "Philosophy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ee29b64a9e2d06",
+  "active": "d8596ddadc9d1dc8",
   "lastOpenFiles": [
     "Philosophy/Immanuel Kant.md",
+    "Critique of Pure Reason.pdf",
     "Philosophy.md",
     "Knowledge.md",
-    "Critique of Pure Reason.pdf",
     "Philosophy/Arthur Schopenhauer.md",
     "Philosophy/Untitled.md",
     "Philosophy"
