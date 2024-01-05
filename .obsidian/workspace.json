@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "19ee29b64a9e2d06",
+            "id": "75b3daa7e527080a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Critique of Pure Reason.pdf"
+                "file": "Math/The Unreasonable Effectiveness of Mathematics in the Natural Sciences.pdf"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critique of Pure Reason.pdf",
+                "file": "Math/The Unreasonable Effectiveness of Mathematics in the Natural Sciences.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critique of Pure Reason.pdf",
+                "file": "Math/The Unreasonable Effectiveness of Mathematics in the Natural Sciences.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Critique of Pure Reason.pdf"
+                "file": "Math/The Unreasonable Effectiveness of Mathematics in the Natural Sciences.pdf"
               }
             }
           }
@@ -195,12 +195,16 @@
       }
     ]
   },
-  "active": "19ee29b64a9e2d06",
+  "active": "75b3daa7e527080a",
   "lastOpenFiles": [
+    "Math.md",
     "Philosophy.md",
     "Philosophy/Immanuel Kant.md",
-    "Critique of Pure Reason.pdf",
+    "Math/The Unreasonable Effectiveness of Mathematics in the Natural Sciences.pdf",
+    "Philosophy/Critique of Pure Reason.pdf",
+    "Math",
     "Knowledge.md",
+    "Critique of Pure Reason.pdf",
     "Philosophy/Arthur Schopenhauer.md",
     "Philosophy/Untitled.md",
     "Philosophy"
