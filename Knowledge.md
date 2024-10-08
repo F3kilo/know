@@ -1,5 +1,5 @@
 Here I'll store knowledge in fields like:
-- Programming,
+- [[Programming]],
 - Math,
 - [[Philosophy]],
 - ...
